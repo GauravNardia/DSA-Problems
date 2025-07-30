@@ -2,6 +2,19 @@
 
 ---
 
+# Two Pointer Approach
+
+> Two pointers is a technique where you use two indices (pointers) to iterate  
+> through data (usually arrays or strings) in a strategic way — either
+
+## When to Use It?
+
+- You want to compare elements from both ends of an array or string (e.g., palindrome check).
+- You want to remove or shift elements while traversing in-place (e.g., remove duplicates or move zeroes).
+- You want to find pairs or count combinations that meet some condition (e.g., two sum in sorted array).
+- You want to traverse at different speeds (like detecting cycles in a linked list with slow and fast pointers).
+
+
 ## 🟢 Easy
 
 1. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) – LC 125  
